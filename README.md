@@ -6,7 +6,7 @@ I am a Full-Stack web developer, I love programming and I have a high skill in w
 
 
 - 👀 I’m a people person with high energy and a lot of ambition to succeed
-- 🌱 I’m currently learning JavaScript, React, 
+- 🌱 I’m currently learning JavaScript, React, MySQL, Redux
 - :speech_balloon: Ask me about anythink, I am happy to help
 - 📫 How to reach me: beesan.ghaith@gmail.com
 

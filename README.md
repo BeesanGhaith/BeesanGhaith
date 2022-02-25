@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @BeesanGhaith
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+I am a Full-Stack web developer, I love programming and I have a high skill in web design (CSS)
+- 👀 I’m a people person with high energy and a lot of ambition to succeed
+- 🌱 I’m currently learning JavaScript, React, 
+- 💞️ Ask me about anythink, I am happy to help
+- 📫 How to reach me: beesan.ghaith@gmail.com
 
 <!---
 BeesanGhaith/BeesanGhaith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
